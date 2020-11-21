@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recipetypes>
+    <recipe>
+        <type>Category</type>
+    </recipe>
+    <recipe>
+        <type>Breakfast</type>
+    </recipe>
+    <recipe>
+        <type>Lunch</type>
+    </recipe>
+    <recipe>
+        <type>Dinner</type>
+    </recipe>
+</recipetypes>
